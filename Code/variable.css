@@ -1,0 +1,62 @@
+/* Figma Styles of your File */
+:root {
+    /* Colors */
+    --button: #c8b69a;
+    --background-background: #f9f9f9;
+    /* Consolidated hover color */
+    --hover-hover: #313030;
+    --hover-province: rgba(255, 255, 255, 0.8);
+    --text-nepal: #fcce1c;
+    --text-highlight: #73cee7;
+    --text-text: #000000;
+  
+    /* Fonts */
+    --body-small-font-family: NunitoSans-Regular, sans-serif;
+    --body-small-font-size: 12px;
+    --body-small-line-height: 21px;
+    --body-small-font-weight: 400;
+    --body-small-font-style: normal;
+    --body-normal-font-family: NunitoSans-Regular, sans-serif;
+    --body-normal-font-size: 16px;
+    --body-normal-line-height: 24px;
+    --body-normal-font-weight: 400;
+    --body-normal-font-style: normal;
+    --body-phone-font-family: NunitoSans-Regular, sans-serif;
+    --body-phone-font-size: 8px;
+    --body-phone-line-height: 12px;
+    --body-phone-font-weight: 400;
+    --body-phone-font-style: normal;
+    --body-phonebig-font-family: NunitoSans-Regular, sans-serif;
+    --body-phonebig-font-size: 12px;
+    --body-phonebig-line-height: 16.8px;
+    --body-phonebig-font-weight: 400;
+    --body-phonebig-font-style: normal;
+    --heading-3small-font-family: NunitoSans-Regular, sans-serif;
+    --heading-3small-font-size: 25px;
+    --heading-3small-line-height: 35px;
+    --heading-3small-font-weight: 400;
+    --heading-3small-font-style: normal;
+    --heading-2normal-font-family: NunitoSans-Regular, sans-serif;
+    --heading-2normal-font-size: 40px;
+    --heading-2normal-line-height: 52px;
+    --heading-2normal-font-weight: 400;
+    --heading-2normal-font-style: normal;
+    --heading-3big-font-family: NunitoSans-Regular, sans-serif;
+    --heading-3big-font-size: 64px;
+    --heading-3big-line-height: 76.8px;
+    --heading-3big-font-weight: 400;
+    --heading-3big-font-style: normal;
+    --heading-smallphone-font-family: NunitoSans-Regular, sans-serif;
+    --heading-smallphone-font-size: 19px;
+    --heading-smallphone-line-height: 24px;
+    --heading-smallphone-font-weight: 400;
+    --heading-smallphone-font-style: normal;
+    --heading-normalphone-font-family: NunitoSans-Regular, sans-serif;
+    --heading-normalphone-font-size: 30px;
+    --heading-normalphone-line-height: 28px;
+    --heading-normalphone-font-weight: 400;
+    --heading-normalphone-font-style: normal;
+  
+    /* Effects */
+  }
+  
