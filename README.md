@@ -1,19 +1,34 @@
-# Travel-Nepal
-A simple tourism website showcasing Nepal’s provinces and terrains with login, register, and about us pages. Built with HTML &amp; CSS.
+# Travel Nepal
 
+A static tourism website showcasing Nepal's provinces, terrains, and travel 
+destinations — built with HTML and CSS.
 
-# Nepal Tourism Website
+## Overview
 
-A simple web development project showcasing the beauty of Nepal, its provinces, and terrains.  
-This project was designed in 'Figma' and developed using 'HTML & CSS'.
+Travel Nepal is a beginner web development project presenting information 
+about Nepal's diverse geography, provinces, and tourist attractions. Includes 
+a login and registration page and an About Us section.
 
 ## Features
-- Homepage displaying Nepal's provinces and terrains  
-- Login and Register pages  
-- About Us page  
-- Clean and simple design  
+
+- Province and terrain showcase
+- Login and Register pages
+- About Us section
+- Fully responsive layout
 
 ## Tech Stack
-- HTML
-- CSS
-- Figma (for design prototyping)
+
+- HTML5
+- CSS3
+
+## Setup
+
+```bash
+git clone https://github.com/Prasidda14/Travel-Nepal
+cd Travel-Nepal
+# Open index.html in your browser
+```
+
+## Author
+
+**Prasidda Khadka** · [LinkedIn](https://www.linkedin.com/in/prasidda-khadka/) · [GitHub](https://github.com/Prasidda14)
