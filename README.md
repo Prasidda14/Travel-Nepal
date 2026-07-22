@@ -9,6 +9,8 @@ Travel Nepal is a beginner web development project presenting information
 about Nepal's diverse geography, provinces, and tourist attractions. Includes 
 a login and registration page and an About Us section.
 
+This project was designed in 'Figma' and developed using 'HTML & CSS'.
+
 ## Features
 
 - Province and terrain showcase
@@ -20,6 +22,7 @@ a login and registration page and an About Us section.
 
 - HTML5
 - CSS3
+- Figma (for design prototyping)
 
 ## Setup
 
